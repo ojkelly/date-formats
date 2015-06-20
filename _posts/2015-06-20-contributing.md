@@ -2,7 +2,7 @@
 layout: page
 title:  "Contributing"
 date:   2015-06-20 21:34:21
-categories: lang
+categories: cont
 ---
 
 # Contributing
