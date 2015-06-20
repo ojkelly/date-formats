@@ -20,7 +20,7 @@ codeurl: 'https://github.com/ojkelly/date-formats'
 # Default categories (in order) to appear in the navigation
 sections: [
     ['lang', 'Language'],
-    ['cont', 'Contributing'],
+    ['cont', 'Developers'],
     ['post', 'Posts']
 ]
 
