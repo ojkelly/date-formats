@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Jun 2015 21:54:49 +1000</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2015 21:54:49 +1000</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2015 22:13:08 +1000</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2015 22:13:08 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,11 +16,34 @@
 &lt;h1 id=&quot;common-formats&quot;&gt;Common Formats&lt;/h1&gt;
 </description>
         <pubDate>Sun, 21 Jun 2015 07:34:21 +1000</pubDate>
-        <link>/language/php.html</link>
-        <guid isPermaLink="true">/language/php.html</guid>
+        <link>/lang/php.html</link>
+        <guid isPermaLink="true">/lang/php.html</guid>
         
         
-        <category>language</category>
+        <category>lang</category>
+        
+      </item>
+    
+      <item>
+        <title>Contributing</title>
+        <description>&lt;h1 id=&quot;contributing&quot;&gt;Contributing&lt;/h1&gt;
+
+&lt;h2 id=&quot;fork&quot;&gt;Fork&lt;/h2&gt;
+
+&lt;h3 id=&quot;adding-formats-to-an-existing-page&quot;&gt;Adding formats to an existing page&lt;/h3&gt;
+
+&lt;p&gt;Alter the post with the language&lt;/p&gt;
+
+&lt;h3 id=&quot;adding-a-new-language&quot;&gt;Adding a new language&lt;/h3&gt;
+
+&lt;p&gt;Create a new post&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jun 2015 07:34:21 +1000</pubDate>
+        <link>/lang/contributing.html</link>
+        <guid isPermaLink="true">/lang/contributing.html</guid>
+        
+        
+        <category>lang</category>
         
       </item>
     
