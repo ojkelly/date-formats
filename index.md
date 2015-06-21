@@ -1,18 +1,13 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Welcome"
 ---
 
-### Get Started
+### A quick reference for how to format a date
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+The intention is for this site to become a complete reference for how to format a date, in all common and uncommon formats for as many programming languages as we can.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
 
-#### Don't Forget
+#### Contribute
 
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+I need help getting this started. Fork the [repo here](https://github.com/ojkelly/date-formats) see [contributing](http://date-format.com/cont/contributing.html) for more infomation.
