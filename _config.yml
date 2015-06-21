@@ -1,3 +1,5 @@
+exclude: [vendor]
+
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Code date formats'
 subtitle: 'Examples of all the date formats you will need for your language'
