@@ -1,5 +1,3 @@
-exclude: [vendor]
-
 # Site title and subtitle. This is used in _includes/header.html
 title: 'Code date formats'
 subtitle: 'Examples of all the date formats you will need for your language'
@@ -40,7 +38,7 @@ highlighter: pygments
 future: true
 
 # Exclude non-site files
-exclude: ['bin', 'README.md']
+exclude: ['bin', 'README.md', 'vendor']
 
 # Use the redcarpet Markdown renderer
 markdown: redcarpet
