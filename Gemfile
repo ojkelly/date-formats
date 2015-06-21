@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem 'nokogiri'
 gem 'rack', '~>1.1'
 gem 'rspec', :require => 'spec'
+gem 'jekyll'
 gem 'rake'
 gem 'rake-jekyll'
 
