@@ -29,6 +29,6 @@ Then follow this convention to make a table to show the dates format arguments a
 ```
 argument | output
 ---------|-------
-{arg}    | {out}
+```{arg}```    | {out}
 
 ```
