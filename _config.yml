@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Code date formats'
-subtitle: 'Examples of all the date formats you will need for your language'
+title: 'Date Format'
+subtitle: 'A reference for how to format that date'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
