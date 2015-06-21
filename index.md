@@ -1,6 +1,6 @@
 # Date Format
 
-date-format.com
+[date-format.com](date-format.com)
 
 
 ### A quick reference for how to format a date
