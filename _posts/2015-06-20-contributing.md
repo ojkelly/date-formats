@@ -5,18 +5,29 @@ date:   2015-06-20 21:34:21
 categories: cont
 ---
 
-# Contributing
+#### Contribute
 
+I need help getting this started.
 
-## Fork
+The site is built in Jekyll, and all languages are posts.
 
+To add a new languge make a new post in the format of: ``` 2015-06-20-{language}.md ``` and add the following to the top of the file:
 
-### Adding formats to an existing page
+```
+---
+layout: page
+title:  "{language}"
+date:   2015-06-20 21:34:21
+categories: lang
+---
 
-Alter the post with the language
+# {language}  formats
+```
 
+Then follow this convention to make a table to show the dates format arguments and their output:
+```
+argument   | output
+-----------|-------
+```{arg}```| {out}
 
-### Adding a new language
-
-Create a new post
-
+```
