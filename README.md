@@ -27,8 +27,8 @@ categories: lang
 
 Then follow this convention to make a table to show the dates format arguments and their output:
 ```
-argument | output
----------|-------
-```{arg}```    | {out}
+argument   | output
+-----------|-------
+```{arg}```| {out}
 
 ```
