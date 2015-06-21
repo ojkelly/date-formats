@@ -40,6 +40,9 @@ future: true
 # Exclude non-site files
 exclude: ['bin', 'README.md', 'vendor']
 
+# Include the CNAME file
+include: ['CNAME']
+
 # Use the redcarpet Markdown renderer
 markdown: redcarpet
 redcarpet:
