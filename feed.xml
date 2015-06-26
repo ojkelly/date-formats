@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 02:00:56 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 02:00:56 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 02:01:48 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 02:01:48 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -39,10 +39,24 @@
 
 &lt;h4 id=&quot;for-interacting-with-other-systems&quot;&gt;For interacting with other systems&lt;/h4&gt;
 
-&lt;p&gt;argument | output | Language/System
----------|--------
-&lt;code&gt;Y-m-d H:i:s&lt;/code&gt; |  2010-02-06 19:30:13 | MySQL
-&lt;code&gt;D M d Y H:i:s O&lt;/code&gt; | Thu Jan 01 1970 10:33:36 +1000 | JavaScript&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;argument&lt;/th&gt;
+&lt;th&gt;output&lt;/th&gt;
+&lt;th&gt;Language/System&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;Y-m-d H:i:s&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2010-02-06 19:30:13&lt;/td&gt;
+&lt;td&gt;MySQL&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;D M d Y H:i:s O&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Thu Jan 01 1970 10:33:36 +1000&lt;/td&gt;
+&lt;td&gt;JavaScript&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 </description>
         <pubDate>Sat, 20 Jun 2015 21:34:21 +0000</pubDate>
         <link>/lang/php.html</link>
