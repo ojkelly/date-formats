@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jun 2015 01:38:29 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2015 01:38:29 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2015 01:39:21 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 01:39:21 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -22,6 +22,10 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;l \t\h\e jS&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;Wednesday the 15th&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;jS M Y&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;15th March 2014&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;l jS \of F Y h:i:s A&lt;/code&gt;&lt;/td&gt;
